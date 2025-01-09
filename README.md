@@ -43,7 +43,7 @@ https://github.com/BHIBHUSHITAM/Plant-Disease-Detection-for-Sustainable-Agricult
 https://github.com/BHIBHUSHITAM/Plant-Disease-Detection-for-Sustainable-Agriculture/blob/main/acc_and_loss.jpg
 
 ### Confusion Matrix for Validation data
-![Model Structure](./plots/confusion_matrix.jpg)
+https://github.com/BHIBHUSHITAM/Plant-Disease-Detection-for-Sustainable-Agriculture/blob/main/confusion_matrix.jpg
 
 ### Metrics
 
