@@ -38,8 +38,7 @@ The model makes sure of **Early Stopping** and **Tensorboard** callbacks to prev
 
 ### Structure
 
-![Model Structure](./plots/model.jpg)
-
+https://github.com/BHIBHUSHITAM/Plant-Disease-Detection-for-Sustainable-Agriculture/blob/main/model.jpg
 ### Accuracy and Loss
 ![Model Structure](./plots/acc_and_loss.jpg)
 
