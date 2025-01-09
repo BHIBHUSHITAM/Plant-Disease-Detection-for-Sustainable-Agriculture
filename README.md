@@ -37,7 +37,7 @@ The different layers used in this model are as follows:
 The model makes sure of **Early Stopping** and **Tensorboard** callbacks to prevent overfitting and monitor training respectively.
 
 ### Structure
-
+model.jpg
 
 
 ### Accuracy and Loss
