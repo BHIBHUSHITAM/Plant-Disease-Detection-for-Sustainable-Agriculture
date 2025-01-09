@@ -40,7 +40,7 @@ The model makes sure of **Early Stopping** and **Tensorboard** callbacks to prev
 
 https://github.com/BHIBHUSHITAM/Plant-Disease-Detection-for-Sustainable-Agriculture/blob/main/model.jpg
 ### Accuracy and Loss
-![Model Structure](./plots/acc_and_loss.jpg)
+https://github.com/BHIBHUSHITAM/Plant-Disease-Detection-for-Sustainable-Agriculture/blob/main/acc_and_loss.jpg
 
 ### Confusion Matrix for Validation data
 ![Model Structure](./plots/confusion_matrix.jpg)
