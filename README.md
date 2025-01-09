@@ -62,4 +62,4 @@ Use the command _**tensorboard --logdir tensorboard_logs/fit**_ using the comman
 ### Notes
 - Make sure to update the _**BASE_PATH**_ constant in _**Train.ipynb**_ to reflect the location where your dataset is stored.
 
-> Developed by - Mayur Garg
+> Developed by - BHIBHUSHITAM SINGH
